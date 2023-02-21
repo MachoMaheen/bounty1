@@ -21,5 +21,5 @@ Concordium-client is a graphical user interface that allows you to manage your a
 ### Step 5: Export the account from web wallet and import it into Concordium client
 ![5](https://user-images.githubusercontent.com/99596115/220268728-03e394b6-a59f-4d44-8740-d7622ee00999.png)
 
-## Mainnet
+## My Concordium Mainnet Address
 36gvsHijGDy7kLNuNq6JqLf3LiVzTQJBEeYxHUg54wak5r9uhk
